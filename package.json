@@ -2,13 +2,13 @@
   "name": "sun-forecast-metering-app",
   "version": "1.0.0",
   "description": "This app will try to get date for clear-sky direct solar radiation at surface forecast",
-  "main": "app.js",
+  "main": "index.js",
   "dependencies": {
     "express": "^4.17.1"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node app.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
